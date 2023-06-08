@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujitRamDhakal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:sujitramdhakal59@gmail.com
 
